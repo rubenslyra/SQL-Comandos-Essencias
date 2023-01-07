@@ -29,10 +29,10 @@ Para agilizar o processo de familiarização com os comandos, podemos usar uma f
 
 
 ## OS 5 PRINCIPAIS GRUPOS DE COMANDOS
-```SQL
-DDL – Data Definition Language
-DML – Data Manipulation Language
-DCL – Data Control Language
-DQL – Data Query Language
-DTL – Data Transaction Language
-```
+
+- DDL – Data Definition Language
+- DML – Data Manipulation Language
+- DCL – Data Control Language
+- DQL – Data Query Language
+- DTL – Data Transaction Language
+
